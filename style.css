@@ -1,0 +1,30 @@
+body {
+  width: 1000px;
+}
+
+h1 {
+  color: darkgreen;
+  text-align: center;
+}
+
+img {
+  border: 2px solid black;
+}
+
+p {
+  font-size: 18px;
+}
+
+.description {
+  width: 350px;
+  padding: 10px 30px;
+  float: left;
+}
+
+.clearfloat {
+  clear: both;
+}
+
+.copyright {
+  text-align: center;
+}

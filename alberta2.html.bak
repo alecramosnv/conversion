@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>This file is in XHTML</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <h1>The Beautiful Alberta Falls</h1>
+ <hr />
+ <div class="description">
+  <p>Alberta Falls is one of the most spectacular waterfalls in Rocky Mountain National Park.</p>
+  <p>It was given its name in the 1800s by Abner Sprague and his wife, who were two of the first people to live in the park.</p>
+  <p>The waterfall can be reached by hiking just a half mile along a gentle uphill trail from the Glacier Gorge Trailhead.</p>
+  <p>There are many beautiful lookouts along the trail. Come check it out!</p>
+</div>
+<img src="images/alberta-falls.jpg" width="500" height="338" alt="Alberta Falls">
+<br class="clearfloat">
+<hr />
+<p class="copyright">&copy;2014 All Rights Reserved.</p>
+</body>
+</html>
